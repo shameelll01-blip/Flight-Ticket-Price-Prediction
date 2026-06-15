@@ -109,6 +109,6 @@ Shameel M
 
 Machine Learning | Data Analytics | Python Developer
 
-⭐ Conclusion
+## Conclusion
 
 This project demonstrates a complete machine learning pipeline for flight ticket price prediction, from data preprocessing and EDA to model building and deployment. It provides an intuitive way for users to estimate airfare and understand factors affecting ticket prices.
